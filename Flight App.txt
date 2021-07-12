@@ -1,0 +1,30 @@
+﻿Flight App
+PASSENGERS
+Id
+Name
+Age
+
+SCHEDULED FLIGHTS
+Id
+Origin
+Destination
+Departure_time
+Arrival_time
+Airplane_type
+Crew_number
+Passenger_number
+
+CREW MEMBERS
+Id
+Name
+Role
+
+FLIGHT INSTANCES
+Scheduled_flight_id
+Crew_member1_id
+Crew_member2_id
+…
+Crew_member8_id
+Passenger1_id
+…
+Passenger200_id
